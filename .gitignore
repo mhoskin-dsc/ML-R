@@ -1,0 +1,10 @@
+*.log
+*.aux
+*.synctex.gz
+*.txt
+.DS_Store
+.RData
+.Rhistory
+*.synctex(busy)
+*.RData
+data/
